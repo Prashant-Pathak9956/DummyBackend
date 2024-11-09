@@ -79,10 +79,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'dummy_db',
-        'USER': 'root',
-        'PASSWORD': '12345',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        # 'USER': 'root',
+        # 'PASSWORD': '12345',
+        # 'HOST': 'localhost',
+        # 'PORT': '3306',
     }
 }
 
